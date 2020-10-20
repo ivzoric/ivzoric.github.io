@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Indie Video Games 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
+<img src="images/PandaPredicament.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Desert City](https://cloudburst-games.itch.io/desert-city)
+<img src="images/DesertCity.png?raw=false"/>
+
+---
+[Crazy Drive](https://cloudburst-games.itch.io/crazy-drive)
+<img src="images/Crazy_Drive.png?raw=false"/>
 
 ---
 
