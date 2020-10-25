@@ -9,7 +9,7 @@
 
 ---
 [Desert City](https://cloudburst-games.itch.io/desert-city)
-<img src="images/DesertCity.png?raw=false"/>
+<img src="images/DesertCity.jpg?raw=true"/>
 
 ---
 [Crazy Drive](https://cloudburst-games.itch.io/crazy-drive)
