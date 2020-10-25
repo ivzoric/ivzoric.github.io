@@ -18,7 +18,7 @@
 #### Education
 
 [Machina Game Dev Academy](https://www.machina.academy/)
-<img src="pdf/MachinaCertificate.pdf?raw=true"/>
+<img src="images/MachinaCertificate.jpg?raw=true"/>
 
 
 
