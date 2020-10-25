@@ -2,16 +2,16 @@
 
 ---
 
-<h2>Indie Video Games</h2>
+<h2>Indie Video Game Projects:</h2>
 <br>
 
-[The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
+<ul><li>[The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)</li></ul>
 <br><br>
-<i>The game was created in a week-long game jam on the theme of "Extinction".</i>
+<i>A downloadable game for Windows. The game was created in a week-long game jam on the theme of "Extinction".</i>
 <br><br>
 <b>Level & Game Designer</b>
 <br><br>
-<img src="images/PandaPredicament.jpg?raw=true" align="center"/>
+<img src="images/PandaPredicament.jpg?raw=true"/>
 
 ---
 [Desert City](https://cloudburst-games.itch.io/desert-city)
