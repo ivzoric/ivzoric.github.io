@@ -4,7 +4,7 @@
 
 <h2><u>Indie Video Game Projects:</u></h2>
 <br>
-
+<div>
 [The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
 <br><br>
 <i>A downloadable game for Windows. The game was created in a week-long game jam on the theme of "Extinction".</i>
@@ -12,7 +12,7 @@
 <b>Level & Game Designer</b>
 <br><br>
 <img src="images/ThePandaPredicament.jpg?raw=true"/>
-
+</div>
 ---
 
 [The Pirate Adventure](https://uncommonsensegames.itch.io/pirate-adventure)
@@ -22,6 +22,8 @@
 <b>Level Designer<b>
 <br><br>
 <img src="images/ThePirate.jpg?raw=true"/>
+  
+---
 
 [Desert City](https://cloudburst-games.itch.io/desert-city)
 <br><br>
@@ -34,6 +36,7 @@
 <img src="images/Desert_City.png?raw=false"/>
 
 ---
+
 [Crazy Drive](https://cloudburst-games.itch.io/crazy-drive)
 <br><br>
 <i>Crazy Drive is my first project in Unity after one month of education at Simora PISMO Inkubator in Novska. Goal was to create a game with all the knowledge that we have achieved over the first month of education, simple score, movement and health/lives systems.</i>
