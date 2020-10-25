@@ -18,6 +18,10 @@
 <br><br>
 <i>A downloadable game for Windows. Desert City is my second project in Unity at Simora PISMO Inkubator in Novska after month and a half of education.</i>
 <br><br>
+<b>Project Leader<b>
+<br>
+<b>Level & Game Designer</b>
+<br><br>
 <img src="images/DesertCity.png?raw=false"/>
 
 ---
