@@ -8,8 +8,8 @@
 [The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
 <br><br>
 The game was created in a week-long game jam on the theme of "Extinction".
-<br>
-Level & Game Designer
+<br><br>
+<b>Level & Game Designer</b>
 <br><br>
 <img src="images/PandaPredicament.jpg?raw=true"/>
 
