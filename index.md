@@ -11,7 +11,7 @@
 <br><br>
 <b>Level & Game Designer</b>
 <br><br>
-<img src="images/PandaPredicament.jpg?raw=true"/>
+<img src="images/PandaPredicament.jpg?raw=true" align="center"/>
 
 ---
 [Desert City](https://cloudburst-games.itch.io/desert-city)
