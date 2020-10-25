@@ -26,6 +26,9 @@
 
 ---
 [Crazy Drive](https://cloudburst-games.itch.io/crazy-drive)
+<br><br>
+<i>Crazy Drive is my first project in Unity after one month of education at Simora PISMO Inkubator in Novska. Goal was to create a game with all the knowledge that we have achieved over the first month of education, simple score, movement and health/lives systems.<i>
+<br><br>
 <img src="images/Crazy_Drive.png?raw=false"/>
 
 ### Education
