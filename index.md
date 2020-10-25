@@ -4,11 +4,8 @@
 
 <h2>Indie Video Games</h2>
 
-<ul><li>The Panda Predicament</li></ul>
-
-<img src="images/PandaPredicament.jpg?raw=true"/>
-
 [The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
+<img src="images/PandaPredicament.jpg?raw=true"/>
 
 ---
 [Desert City](https://cloudburst-games.itch.io/desert-city)
