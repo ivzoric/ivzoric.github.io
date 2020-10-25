@@ -1,10 +1,13 @@
-## Portfolio
+<h1>Experience</h1>
 
 ---
 
 ### Indie Video Games 
 
+#### The Panda Predicament
+
 [The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
+
 <img src="images/PandaPredicament.jpg?raw=true"/>
 
 ---
