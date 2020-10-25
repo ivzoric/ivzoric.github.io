@@ -7,7 +7,7 @@
 
 [The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
 <br><br>
-<i>A downloadable game for Windows. The game was created in a week-long game jam on the theme of "Extinction".</i>
+<i>A downloadable game for Windows. The game was created in a team of four people in a week-long game jam on the theme of "Extinction".</i>
 <br><br>
 <b>Level & Game Designer</b>
 <br><br>
@@ -17,7 +17,7 @@
 
 [The Pirate Adventure](https://uncommonsensegames.itch.io/pirate-adventure)
 <br><br>
-<i>A downloadable game for Windows. The Pirate Adventure is a short resource management game and it was created in a four day long game jam on the theme of "Exploitation".</i>
+<i>A downloadable game for Windows. It is a short resource management game and it was created in a four day long game jam on the theme of "Exploitation".</i>
 <br><br>
 <b>Level Designer<b>
 <br><br>
