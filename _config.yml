@@ -2,8 +2,10 @@ title: Ivan Zorić # your name (or website title) here
 logo: "/images/PandaPredicament.jpg?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Game developer:
-  -Unity 3D C#
-  <br><br>
+  -Unity Game Engine
+  <br>
+  -C#
+  <br>
   3D Artist:
   -Blender
   <br><br>
@@ -13,13 +15,16 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Feel free to contact me
   <br>
-  mobile: 
+  Mobile: 
   +385 0989938110
   <br>
-  email: 
+  Personal email: 
+  ivzoric88@gmail.com
+  <br>
+  Game Studio email: 
   cburstgames@gmail.com
   <br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://cloudburst-games.itch.io/">Visit itch.io account of our Game Studio</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
