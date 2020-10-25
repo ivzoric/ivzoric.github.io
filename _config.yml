@@ -1,32 +1,32 @@
 title: Ivan Zorić # your name (or website title) here
 logo: "/images/PandaPredicament.jpg?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Game developer:
+  <ul><li>Game developer:</li></ul>
   <br>
   -Unity Game Engine
   <br>
   -C#
-  <br>
-  3D Artist:
+  <br><br>
+  <ul><li>3D Artist:</li></ul>
   <br>
   -Blender
   <br><br>
-  Finished Machina Academy, Zagreb:
+  <ul><li>Finished Machina Academy, Zagreb:</li></ul>
   <br>
   -C# programming and Unity Game Engine
   <br>
   <br>
   Feel free to contact me:
   <br>
-  Mobile:
+  <ul><li>Mobile:</li></ul>
   <br>
   +385 0989938110
   <br>
-  Personal email:
+  <ul><li>Personal email:</li></ul>
   <br>
   ivzoric88@gmail.com
   <br>
-  Game Studio email:
+  <ul><li>Game Studio email:</li></ul>
   <br>
   cburstgames@gmail.com
   <br>
