@@ -1,35 +1,33 @@
 title: Ivan Zorić # your name (or website title) here
 logo: "/images/PandaPredicament.jpg?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <ul><li>Game developer:</li></ul>
-  <br>
-  -Unity Game Engine
-  <br>
-  -C#
+  <h2><b>Level & Game designer/ 3D Artist:</b></h2>
   <br><br>
-  <ul>3D Artist:</ul>
+  <i>Unity Game Engine
   <br>
-  -Blender
+  C#
+  <br>
+  Blender</i>
   <br><br>
-  <ul><li>Finished Machina Academy, Zagreb:</li></ul>
+  <h2><b>Finished Machina Academy, Zagreb:</b></h2>
+  <br><br>
+  C# programming and Unity Game Engine
   <br>
-  -C# programming and Unity Game Engine
   <br>
-  <br>
-  Feel free to contact me:
-  <br>
-  <ul><li>Mobile:</li></ul>
+  <h2><b>Feel free to contact me:</b></h2>
+  <br><br>
+  <u>Mobile:</u>
   <br>
   +385 0989938110
-  <br>
-  <ul><li>Personal email:</li></ul>
+  <br><br>
+  <u>Personal email:</u>
   <br>
   ivzoric88@gmail.com
-  <br>
-  <ul><li>Game Studio email:</li></ul>
+  <br><br>
+  <u>Game Studio email:</u>
   <br>
   cburstgames@gmail.com
-  <br>
+  <br><br>
   <a href="https://cloudburst-games.itch.io/">Visit itch.io account of our Game Studio</a> 
   
 theme: jekyll-theme-minimal
