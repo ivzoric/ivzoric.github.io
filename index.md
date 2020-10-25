@@ -3,8 +3,12 @@
 ---
 
 <h2>Indie Video Games</h2>
+<br>
+<ul><li>Project:</li></ul>
 
 [The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
+<br>
+The game was created in a week-long game jam on the theme of "Extinction".
 <img src="images/PandaPredicament.jpg?raw=true"/>
 
 ---
