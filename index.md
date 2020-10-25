@@ -8,12 +8,10 @@
 <img src="images/PandaPredicament.jpg?raw=true"/>
 
 ---
-
 [Desert City](https://cloudburst-games.itch.io/desert-city)
 <img src="images/DesertCity.png?raw=false"/>
 
 ---
-
 [Crazy Drive](https://cloudburst-games.itch.io/crazy-drive)
 <img src="images/Crazy_Drive.png?raw=false"/>
 
