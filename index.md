@@ -2,7 +2,7 @@
 
 ---
 
-<h2>Indie Video Game Projects:</h2>
+<h2><u>Indie Video Game Projects:</u></h2>
 <br>
 
 [The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
@@ -31,10 +31,12 @@
 <br><br>
 <img src="images/Crazy_Drive.png?raw=false"/>
 
-<h2>Education</h2>
+---
+
+<h2><u>Education</u></h2>
 <br><br>
 [Machina Game Dev Academy](https://www.machina.academy/)
-<br>
+<br><br>
 <img src="images/MachinaCertificate-page-001.jpg?raw=true"/>
 
 
