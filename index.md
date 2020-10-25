@@ -31,9 +31,10 @@
 <br><br>
 <img src="images/Crazy_Drive.png?raw=false"/>
 
-### Education
-
+<h2>Education</h2>
+<br><br>
 [Machina Game Dev Academy](https://www.machina.academy/)
+<br>
 <img src="images/MachinaCertificate-page-001.jpg?raw=true"/>
 
 
