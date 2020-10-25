@@ -4,7 +4,7 @@
 
 <h2><u>Indie Video Game Projects:</u></h2>
 <br>
----
+
 [The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
 <br><br>
 <i>A downloadable game for Windows. The game was created in a week-long game jam on the theme of "Extinction".</i>
