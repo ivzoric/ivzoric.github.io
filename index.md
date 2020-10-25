@@ -11,7 +11,7 @@
 <br><br>
 <b>Level & Game Designer</b>
 <br><br>
-<img src="images/PandaPredicament.jpg?raw=true"/>
+<img src="images/ThePandaPredicament.jpg?raw=true"/>
 
 ---
 
@@ -31,7 +31,7 @@
 <br>
 <b>Level & Game Designer</b>
 <br><br>
-<img src="images/DesertCity.png?raw=false"/>
+<img src="images/Desert_City.png?raw=false"/>
 
 ---
 [Crazy Drive](https://cloudburst-games.itch.io/crazy-drive)
