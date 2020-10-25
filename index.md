@@ -2,9 +2,9 @@
 
 ---
 
-### Indie Video Games 
+<h2>Indie Video Games</h2>
 
-#### The Panda Predicament
+<ul><li>The Panda Predicament</li></ul>
 
 [The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
 
