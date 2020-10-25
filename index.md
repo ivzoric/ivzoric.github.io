@@ -15,7 +15,7 @@
 [Crazy Drive](https://cloudburst-games.itch.io/crazy-drive)
 <img src="images/Crazy_Drive.png?raw=false"/>
 
-#### Education
+### Education
 
 [Machina Game Dev Academy](https://www.machina.academy/)
 <img src="images/MachinaCertificate.jpg?raw=true"/>
