@@ -15,12 +15,13 @@
 
 ---
 
-[Pirate Adventure](https://uncommonsensegames.itch.io/pirate-adventure)
+[The Pirate Adventure](https://uncommonsensegames.itch.io/pirate-adventure)
 <br><br>
 <i>A downloadable game for Windows. The Pirate Adventure is a short resource management game and it was created in a four day long game jam on the theme of "Exploitation".</i>
 <br><br>
 <b>Level Designer<b>
 <br><br>
+<img src="images/ThePirate.jpg?raw=true"/>
 
 [Desert City](https://cloudburst-games.itch.io/desert-city)
 <br><br>
