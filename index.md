@@ -6,9 +6,9 @@
 
 <ul><li>The Panda Predicament</li></ul>
 
-[The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
-
 <img src="images/PandaPredicament.jpg?raw=true"/>
+
+[The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
 
 ---
 [Desert City](https://cloudburst-games.itch.io/desert-city)
